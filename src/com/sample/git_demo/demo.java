@@ -6,6 +6,7 @@ public class demo {
 		
 		System.out.println("working directory in eclipse: master branch");
 		System.out.println("working directory in eclipse: modifications in sub branch");
+		System.out.println("for merge: changes in sub branch");
 
 	}
 
